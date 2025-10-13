@@ -31,11 +31,3 @@ console.log(a ** 2); // 10 ** 2 = 100
 // Modulo
 console.log(b % c); // 20 % 30 = 20
 console.log(c % b); // 20 % 30 = 10 !El orden importa
-
-// Incremento
-console.log(d++); // imprime el valor 40 y suma 1 despues de imprimir
-console.log(d); // Valor actualizado: 41
-
-// Decremento
-console.log(e--); //imprime el valor 50 y resta 1 despues de imprimir
-console.log(e); // Valor actualizado: 49
